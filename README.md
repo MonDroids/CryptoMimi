@@ -1,4 +1,4 @@
-# CryptoMimi
+# CryptoMimi is my cat name :)
 # nft-marketplace-code
 NFT Marketplace
 **Please ensure you have downloaded the following additionally **
