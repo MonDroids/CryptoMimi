@@ -1,4 +1,4 @@
-# CryptoMimi changed to KryptoMimi /has Chosen a unique name./
+# CryptoMimi 
 # /Mimi/ is my cat name :) 
 # nft-marketplace-code
 NFT Marketplace
