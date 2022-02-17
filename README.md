@@ -2,6 +2,7 @@
 # /Mimi/ is my cat name :) 
 # nft-marketplace-code
 https://eips.ethereum.org/EIPS/eip-721
+https://eips.ethereum.org/EIPS/eip-165
 NFT Marketplace
 **Please ensure you have downloaded the following additionally **
 
