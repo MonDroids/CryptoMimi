@@ -1,6 +1,7 @@
 # KryptoMimi 
 # /Mimi/ is my cat name :) 
 # nft-marketplace-code
+https://eips.ethereum.org/EIPS/eip-721
 NFT Marketplace
 **Please ensure you have downloaded the following additionally **
 
